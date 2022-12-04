@@ -3,7 +3,7 @@ describe('Add 2 number', () => {
         expect(1+1).toBe(2)
      })
      test("2 and 1 is 3",()=>{
-        expect(1+2).toBe()
+        expect(1+2).toBe(3)
 
      })
  })
